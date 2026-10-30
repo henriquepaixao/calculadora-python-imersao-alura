@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Python",
+  "description": "Calculadora completa em Python com as quatro operações básicas (adição, subtração, multiplicação e divisão), terminal interativo e código-fonte pronto para download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
